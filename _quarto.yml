@@ -2,12 +2,27 @@ project:
   type: website
 
 website:
+  title: "Eduard Bueno"
   navbar:
     left:
       - href: index.qmd
-        text: Home #remove this to make
+        text: Home 
       - href: about.qmd
-        text: Information
+        text: About  
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume  
+      - href: contact.qmd
+        text: Contact  
+
+  page-footer:
+    center: "© 2025 Eduard Bueno - Powered by Quarto & Netlify"
+    right: 
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/eduard-miguel-bueno/"
+      - icon: github
+        href: "https://github.com/L4S3RB0Y"
 
 format:
   html:
@@ -16,6 +31,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-

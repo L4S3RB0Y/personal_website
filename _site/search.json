@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "eduardbueno_website",
+    "title": "Eduard Miguel Bueno",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "I’m Eduard Bueno, an aspiring data scientist with expertise in machine learning, NLP, and healthcare analytics. Currently, I work on AI-driven nurse-hospital recommendations at Ask Margot and have developed predictive models for skin diseases for the Algorithmic Justice League.\n📍 Based in Los Angeles, CA | 🎓 Stats & Data Science @ UCLA\n\n\n\n\n\n🔹 Used K-means clustering, neural networks, and KNN\n🔹 Matched nurses to ideal hospitals using reviews & ratings\n🔹 View on GitHub\n\n\n\n🔹 Supervised learning model to predict income brackets\n🔹 Features: age, education, capital gains, and more\n🔹 View on GitHub\n\n\n\n\n\n📧 em7701bueno@gmail.com\n🔗 LinkedIn | GitHub\n\n🔹 This website is powered by Quarto & Netlify."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 5\n\n[1] 6\n\n\n\nrunif(10)\n\n [1] 0.43699388 0.46948222 0.01864324 0.73459941 0.45515674 0.07801484\n [7] 0.21263733 0.59017575 0.19564761 0.86448793"
+    "text": "About this site\n\n1 + 5\n\n[1] 6\n\n\n\nrunif(10)\n\n [1] 0.95860349 0.39665678 0.38954431 0.04149219 0.06012639 0.31560444\n [7] 0.18988888 0.34903715 0.74985562 0.09140085\n\n\"ADDED INFO\"\n\n[1] \"ADDED INFO\""
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Eduard Miguel Bueno",
+    "section": "",
+    "text": "🔹 Used K-means clustering, neural networks, and KNN\n🔹 Matched nurses to ideal hospitals using reviews & ratings\n🔹 View on GitHub\n\n\n\n🔹 Supervised learning model to predict income brackets\n🔹 Features: age, education, capital gains, and more\n🔹 View on GitHub"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Eduard Miguel Bueno",
+    "section": "",
+    "text": "📧 em7701bueno@gmail.com\n🔗 LinkedIn | GitHub\n\n🔹 This website is powered by Quarto & Netlify."
   }
 ]
