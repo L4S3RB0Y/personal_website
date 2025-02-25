@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 70cd8a59-fda3-46f7-b442-1986a5a3046c
+      url: https://eduardmiguelbueno.netlify.app/
