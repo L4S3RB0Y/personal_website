@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Eduard Miguel Bueno",
+    "title": "Eduard Bueno",
     "section": "",
-    "text": "I’m Eduard Bueno, an aspiring data scientist with expertise in machine learning, NLP, and healthcare analytics. Currently, I work on AI-driven nurse-hospital recommendations at Ask Margot and have developed predictive models for skin diseases for the Algorithmic Justice League.\n📍 Based in Los Angeles, CA | 🎓 Stats & Data Science @ UCLA\n\n\n\n\n\n🔹 Used K-means clustering, neural networks, and KNN\n🔹 Matched nurses to ideal hospitals using reviews & ratings\n🔹 View on GitHub\n\n\n\n🔹 Supervised learning model to predict income brackets\n🔹 Features: age, education, capital gains, and more\n🔹 View on GitHub\n\n\n\n\n\n📧 em7701bueno@gmail.com\n🔗 LinkedIn | GitHub\n\n🔹 This website is powered by Quarto & Netlify."
+    "text": "🔊 Start"
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,40 @@
     "title": "Eduard Miguel Bueno",
     "section": "",
     "text": "📧 em7701bueno@gmail.com\n🔗 LinkedIn | GitHub\n\n🔹 This website is powered by Quarto & Netlify."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Eduard Bueno",
+    "section": "🎓 Education",
+    "text": "🎓 Education\nUniversity of California, Los Angeles\nB.S. in Statistics and Data Science | June 2025\nCornell University, New York\nE-certificate in Machine Learning Foundations | May 2024 - August 2024"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Eduard Bueno",
+    "section": "💼 Experience",
+    "text": "💼 Experience\nData Scientist | Ask Margot | 2024 - Present\nLead Instructor | Mathnasium | 2023 - Present"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Eduard Bueno",
+    "section": "🚀 Projects",
+    "text": "🚀 Projects\n\n🏥 Nurse-Hospital Matching System (Ask Margot)\n\n🩺 Skin Disease Prediction Model (Algorithmic Justice League)\n\n📊 Census Income Classifier - ML predictions"
+  },
+  {
+    "objectID": "index.html#leadership",
+    "href": "index.html#leadership",
+    "title": "Eduard Bueno",
+    "section": "🏆 Leadership",
+    "text": "🏆 Leadership\n\nBreak Through Tech AI Fellow | Cornell x UCLA\n\nMentor @ Data Science Club | UCLA"
+  },
+  {
+    "objectID": "index.html#text-to-speech-script",
+    "href": "index.html#text-to-speech-script",
+    "title": "Eduard Bueno",
+    "section": "🔊 Text-to-Speech Script",
+    "text": "🔊 Text-to-Speech Script\n&lt;script&gt;\n  const speech = new SpeechSynthesisUtterance();\n  let isPaused = false;\n\n  document.getElementById('startButton').addEventListener('click', function () {\n    speech.text = document.body.innerText;\n    speech.lang = 'en-US';\n    speech.rate = 1;\n    window.speechSynthesis.speak(speech);\n    document.getElementById('pauseResumeButton').disabled = false;\n    document.getElementById('stopButton').disabled = false;\n    document.getElementById('startButton').disabled = true;\n  });\n\n  document.getElementById('pauseResumeButton').addEventListener('click', function () {\n    if (window.speechSynthesis.speaking && !isPaused) {\n      window.speechSynthesis.pause();\n      this.textContent = '▶️ Resume';\n      isPaused = true;\n    } else if (isPaused) {\n      window.speechSynthesis.resume();\n      this.textContent = '⏸ Pause';\n      isPaused = false;\n    }\n  });\n\n  document.getElementById('stopButton').addEventListener('click', function () {\n    window.speechSynthesis.cancel();\n    isPaused = false;\n    document.getElementById('pauseResumeButton').disabled = true;\n    document.getElementById('stopButton').disabled = true;\n    document.getElementById('startButton').disabled = false;\n    document.getElementById('pauseResumeButton').textContent = '⏸ Pause';\n  });\n\n  speech.addEventListener('end', function () {\n    document.getElementById('pauseResumeButton').disabled = true;\n    document.getElementById('stopButton').disabled = true;\n    document.getElementById('startButton').disabled = false;\n    document.getElementById('pauseResumeButton').textContent = '⏸ Pause';\n  });\n&lt;/script&gt;"
   }
 ]

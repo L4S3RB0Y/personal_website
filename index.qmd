@@ -1,36 +1,65 @@
 ---
-title: "Eduard Miguel Bueno"
-format: html
+title: "Eduard Bueno"
+about:
+  template: trestles
+  image: eduardbueno.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/eduard-miguel-bueno/
+    - icon: github
+      text: Github
+      href: https://github.com/L4S3RB0Y
+    - text: Email
+      url: "mailto:em7701bueno@gmail.com"
+      icon: inbox-fill
+    - text: Résumé
+      href: "EduardBueno_Resume.pdf"
+      icon: file-text-fill
+comments: false
+toc: false
 ---
+
+<button id="startButton">🔊 Start</button>
+<button id="pauseResumeButton" disabled>⏸ Pause</button>
+<button id="stopButton" disabled>⏹ Stop</button>
 
 # 👋 Welcome!  
 
-I'm **Eduard Bueno**, an aspiring **data scientist** with expertise in **machine learning, NLP, and healthcare analytics**. Currently, I work on **AI-driven nurse-hospital recommendations** at **Ask Margot** and have developed **predictive models for skin diseases** for the **Algorithmic Justice League**.  
+I'm **Eduard Bueno**, a **data scientist & machine learning engineer** passionate about **NLP, recommendation systems, and predictive modeling**.  
 
-📍 **Based in Los Angeles, CA** | 🎓 **Stats & Data Science @ UCLA**  
+- 🎓 **Stats & Data Science @ UCLA**  
+- 💼 **Data Scientist @ Ask Margot**  
+- 🚀 **Developing AI-driven hospital-matching models**  
+
+I am currently **a project competitor with the Algorithmic Justice League**, developing a **model to predict skin diseases** from images. This project leverages **deep learning, medical imaging, and fairness-aware AI techniques**.
+
+I am actively seeking opportunities in **machine learning, data science, and AI-driven applications**.  
+
+## 🎓 Education  
+
+**University of California, Los Angeles**  
+B.S. in [Statistics and Data Science](https://statistics.ucla.edu/index.php/academics/undergraduate/statistics-major-worksheets/) \| June 2025  
+
+**Cornell University, New York**  
+E-certificate in [Machine Learning Foundations](EduardBueno_ML_Certificate.pdf) \| May 2024 - August 2024  
+
+## 💼 Experience  
+
+**Data Scientist** \| [Ask Margot](https://askmargot.com) \| Sep 2024 - Jan 2025  
+
+**Lead Instructor** \| [Mathnasium](https://www.mathnasium.com) \| Dec 2019 - Sep 2024  
+
+## 🚀 Projects  
+
+- 🏥 **Nurse-Hospital Matching System** (Ask Margot)  
+- 🩺 **Skin Disease Prediction Model** (Algorithmic Justice League)  
+- 📊 **Census Income Classifier** - ML predictions  
+
+## 🏆 Leadership  
+
+- [Break Through Tech AI Fellow](https://www.breakthroughtech.org/programs/the-ai-program/) \| Cornell x UCLA  
+- **Mentor @ Data Science Club** \| UCLA  
 
 ---
 
-## 🚀 Featured Projects  
-
-### 🏥 Nurse-Hospital Recommendation System  
-🔹 Used **K-means clustering, neural networks, and KNN**  
-🔹 Matched **nurses to ideal hospitals** using reviews & ratings  
-🔹 [View on GitHub](https://github.com/Ask-Margot-Nurse-Match/NurseMatch)  
-
-### 📊 Census Income Classifier  
-🔹 **Supervised learning model** to predict income brackets  
-🔹 Features: **age, education, capital gains, and more**  
-🔹 [View on GitHub](https://github.com/L4S3RB0Y/ML_project_census)  
-
-
----
-
-## 📬 Get in Touch  
-
-📧 **em7701bueno@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/eduard-miguel-bueno/) | [GitHub](https://github.com/L4S3RB0Y)  
-
----
-
-🔹 _This website is powered by **Quarto & Netlify**._  
