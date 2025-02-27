@@ -2,7 +2,7 @@
 title: "Eduard Bueno"
 about:
   template: trestles
-  image: eduardbueno.jpg
+  image: eduardbueno.png
   links:
     - icon: linkedin
       text: LinkedIn
