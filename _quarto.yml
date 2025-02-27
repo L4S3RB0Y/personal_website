@@ -11,10 +11,8 @@ website:
         text: About  
       - href: projects.qmd
         text: Projects
-      - href: resume.qmd
-        text: Resume  
-      - href: contact.qmd
-        text: Contact  
+      - href: coursework.qmd
+        text: Coursework
 
   page-footer:
     center: "© 2025 Eduard Bueno - Powered by Quarto & Netlify"
