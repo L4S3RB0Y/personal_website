@@ -14,15 +14,11 @@ about:
       url: "mailto:em7701bueno@gmail.com"
       icon: inbox-fill
     - text: Résumé
-      href: EduardBueno_Resume.pdf
+      href: "EduardBueno_Resume.pdf"
       icon: file-text-fill
 comments: false
 toc: false
 ---
-
-<button id="startButton">🔊 Start</button>
-<button id="pauseResumeButton" disabled>⏸ Pause</button>
-<button id="stopButton" disabled>⏹ Stop</button>
 
 # 👋 Welcome!  
 
@@ -42,7 +38,7 @@ I am actively seeking opportunities in **machine learning, data science, and AI-
 B.S. in [Statistics and Data Science](https://statistics.ucla.edu/index.php/academics/undergraduate/statistics-major-worksheets/) \| June 2025  
 
 **Cornell University, New York**  
-E-certificate in [Machine Learning Foundations](Eduard Miguel Bueno ML Foundations Certificate.pdf) \| May 2024 - August 2024  
+E-certificate in [Machine Learning Foundations](EduardMLBuenoCertificate.pdf) \| May 2024 - August 2024  
 
 ## 💼 Experience  
 
