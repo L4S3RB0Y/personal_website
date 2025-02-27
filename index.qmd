@@ -18,14 +18,22 @@ about:
       icon: file-text-fill
 comments: false
 toc: false
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css  # Optional custom styling
+
 ---
 
 # 👋 Welcome!  
 
-I'm **Eduard Bueno**, a **data scientist & machine learning engineer** passionate about **NLP, recommendation systems, and predictive modeling**.  
+I'm **Eduard Bueno**, an aspiring **data scientist & machine learning engineer** passionate about **NLP, recommendation systems, and predictive modeling**.  
 
 - 🎓 **Stats & Data Science @ UCLA**  
-- 💼 **Data Scientist @ Ask Margot**  
+- 💼 **Machine Learning Intern @ Ask Margot**  
 - 🚀 **Developing AI-driven hospital-matching models**  
 
 I am currently **a project competitor with the Algorithmic Justice League**, developing a **model to predict skin diseases** from images. This project leverages **deep learning, medical imaging, and fairness-aware AI techniques**.
@@ -42,9 +50,9 @@ E-certificate in [Machine Learning Foundations](EduardMLBuenoCertificate.pdf) \|
 
 ## 💼 Experience  
 
-**Data Scientist** \| [Ask Margot](https://askmargot.com) \| Sep 2024 - Jan 2025  
+**Machine Learning Intern** \| [Ask Margot](https://askmargot.com) \| Sep 2024 - Jan 2025  
 
-**Lead Instructor** \| [Mathnasium](https://www.mathnasium.com) \| Dec 2019 - Sep 2024  
+**Lead Instructor** \| [Mathnasium](https://www.mathnasium.com/math-centers/studiocity/our-team) \| Dec 2019 - Sep 2024  
 
 ## 🚀 Projects  
 
