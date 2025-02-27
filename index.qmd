@@ -21,9 +21,7 @@ toc: false
 
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: [flatly, darkly]
     css: styles.css  # Optional custom styling
 
 ---
