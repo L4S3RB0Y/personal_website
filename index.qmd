@@ -28,7 +28,7 @@ format:
 
 # 👋 Welcome!  
 
-I'm **Eduard Bueno**, an aspiring **data scientist & machine learning engineer** passionate about **NLP, recommendation systems, and predictive modeling**.  
+I'm **Eduard Bueno**, an aspiring **data scientist & machine learning engineer** passionate about **Data Science, Machine Learning, and AI**.  
 
 - 🎓 **Stats & Data Science @ UCLA**  
 - 💼 **Machine Learning Intern @ Ask Margot**  

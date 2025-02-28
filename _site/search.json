@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Eduard Bueno",
     "section": "",
-    "text": "I’m Eduard Bueno, an aspiring data scientist & machine learning engineer passionate about NLP, recommendation systems, and predictive modeling.\n\n🎓 Stats & Data Science @ UCLA\n\n💼 Machine Learning Intern @ Ask Margot\n\n🚀 Developing AI-driven hospital-matching models\n\nI am currently a project competitor with the Algorithmic Justice League, developing a model to predict skin diseases from images. This project leverages deep learning, medical imaging, and fairness-aware AI techniques.\nI am actively seeking opportunities in machine learning, data science, and AI-driven applications.\n\n\nUniversity of California, Los Angeles\nB.S. in Statistics and Data Science | June 2025\nCornell University, New York\nE-certificate in Machine Learning Foundations | May 2024 - August 2024\n\n\n\nMachine Learning Intern | Ask Margot | Sep 2024 - Jan 2025\nLead Instructor | Mathnasium | Dec 2019 - Sep 2024\n\n\n\n\n🏥 Nurse-Hospital Matching System (Ask Margot)\n\n🩺 Skin Disease Prediction Model (Algorithmic Justice League)\n\n📊 Census Income Classifier - ML predictions\n\n\n\n\n\nBreak Through Tech AI Fellow | Cornell x UCLA\n\nMentor @ Data Science Club | UCLA"
+    "text": "I’m Eduard Bueno, an aspiring data scientist & machine learning engineer passionate about Data Science, Machine Learning, and AI.\n\n🎓 Stats & Data Science @ UCLA\n\n💼 Machine Learning Intern @ Ask Margot\n\n🚀 Developing AI-driven hospital-matching models\n\nI am currently a project competitor with the Algorithmic Justice League, developing a model to predict skin diseases from images. This project leverages deep learning, medical imaging, and fairness-aware AI techniques.\nI am actively seeking opportunities in machine learning, data science, and AI-driven applications.\n\n\nUniversity of California, Los Angeles\nB.S. in Statistics and Data Science | June 2025\nCornell University, New York\nE-certificate in Machine Learning Foundations | May 2024 - August 2024\n\n\n\nMachine Learning Intern | Ask Margot | Sep 2024 - Jan 2025\nLead Instructor | Mathnasium | Dec 2019 - Sep 2024\n\n\n\n\n🏥 Nurse-Hospital Matching System (Ask Margot)\n\n🩺 Skin Disease Prediction Model (Algorithmic Justice League)\n\n📊 Census Income Classifier - ML predictions\n\n\n\n\n\nBreak Through Tech AI Fellow | Cornell x UCLA\n\nMentor @ Data Science Club | UCLA"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Eduard",
     "section": "",
-    "text": "I’m a senior at UCLA, majoring in Statistics and Data Science. I specialize in machine learning, NLP, and AI, with a passion for solving real-world problems through data.\nCurrently, I am:\n✅ A project competitor with the Algorithmic Justice League, developing a model that predicts skin diseases from images.\n✅ Finishing my studies at UCLA, diving deeper into AI and data science applications.\n✅ Exploring NLP applications, including text similarity, recommendation systems, and information retrieval.\n\n\n\n📍 University of California, Los Angeles (UCLA)\n- B.S. in Statistics & Data Science (Expected 2025)\n- Break Through Tech AI Fellow, Cornell University\n📍 University of California, Los Angeles (UCLA)\n- A.S. in Mathematics 2023\n\n\n\n\n\nMachine Learning: Neural Networks, CNNs, NLP, Clustering, KNN, SVM\n\nStatistical Modeling & Machine Learning Modeling\n\nProgramming: Python, R, SPSS, STATA, SQL, TensorFlow, PyTorch, Quarto\n\nData Science: Recommendation Systems, Classification\n\n\n\n\n\nI love traveling to different places, including my trip to Japan, where I experienced a mix of modern and traditional culture. When I’m not working on data projects, I enjoy gaming with friends and exploring new AI and tech innovations.\n🚀 I thrive in collaborative environments and enjoy working with others to bring ideas to life. Connect with me and let’s build something impactful together!"
+    "text": "I’m a senior at UCLA, majoring in Statistics and Data Science. I specialize in machine learning, NLP, and AI, with a passion for solving real-world problems through data.\nCurrently, I am:\n✅ A project competitor with the Algorithmic Justice League, developing a model that predicts skin diseases from images.\n✅ Finishing my studies at UCLA, diving deeper into AI and data science applications.\n✅ Exploring NLP applications, including text similarity, recommendation systems, and information retrieval."
   },
   {
     "objectID": "index.html#featured-projects",
@@ -65,22 +65,29 @@
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "About",
-    "section": "",
-    "text": "📍 University of California, Los Angeles (UCLA)\n- B.S. in Statistics & Data Science (Expected 2025)\n- Break Through Tech AI Fellow, Cornell University\n📍 University of California, Los Angeles (UCLA)\n- A.S. in Mathematics 2023"
+    "title": "About Eduard",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n📍 University of California, Los Angeles (UCLA)\n- B.S. in Statistics & Data Science (Expected 2025)\n- Break Through Tech AI Fellow, Cornell University\n📍 University of California, Los Angeles (UCLA)\n- A.S. in Mathematics 2023"
   },
   {
     "objectID": "about.html#technical-skills",
     "href": "about.html#technical-skills",
-    "title": "About",
-    "section": "",
-    "text": "Machine Learning: Neural Networks, CNNs, NLP, Clustering, KNN, SVM\n\nStatistical Modeling & Machine Learning Modeling\n\nProgramming: Python, R, SPSS, STATA, SQL, TensorFlow, PyTorch, Quarto\n\nData Science: Recommendation Systems, Classification"
+    "title": "About Eduard",
+    "section": "🔬 Technical Skills",
+    "text": "🔬 Technical Skills\n\nMachine Learning: Neural Networks, CNNs, NLP, Clustering, KNN, SVM\n\nStatistical Modeling & Machine Learning Modeling\n\nProgramming: Python, R, SPSS, STATA, SQL, TensorFlow, PyTorch, Quarto\n\nData Science: Recommendation Systems, Classification"
   },
   {
     "objectID": "about.html#more-about-me",
     "href": "about.html#more-about-me",
-    "title": "About",
+    "title": "About Eduard",
+    "section": "🌍 More About Me",
+    "text": "🌍 More About Me\nI love traveling to different places, including my trip to Japan, where I experienced a mix of modern and traditional culture. When I’m not working on data projects, I enjoy gaming with friends and exploring new AI and tech innovations.\n🚀 I thrive in collaborative environments and enjoy working with others to bring ideas to life. Connect with me and let’s build something impactful together!"
+  },
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
     "section": "",
-    "text": "I love traveling to different places, including my trip to Japan, where I experienced a mix of modern and traditional culture. When I’m not working on data projects, I enjoy gaming with friends and exploring new AI and tech innovations.\n🚀 I thrive in collaborative environments and enjoy working with others to bring ideas to life. Connect with me and let’s build something impactful together!"
+    "text": "Term\nCourses\nDescription\n\n\n\n\nFall 2023\nMATH 115A - Linear Algebra\nView Description\n\n\nFall 2023\nSTATS 20 - Introduction to Statistical Programming with R\nView Description\n\n\nWinter 2024\nSTATS 100A - Introduction to Probability\nView Description\n\n\nWinter 2024\nSTATS 101A - Introduction to Data Analysis and Regression\nView Description\n\n\nWinter 2024\nSTATS 102A - Introduction to Computational Statistics with R\nView Description\n\n\nSpring 2024\nSTATS 100B - Introduction to Mathematical Statistics\nView Description\n\n\nSpring 2024\nSTATS 101B - Introduction to Mathematical Statistics\nView Description\n\n\nFall 2024\nSTATS 100C - Linear Models\nView Description\n\n\nFall 2024\nSTATS 101C - Introduction to Statistical Models and Data Mining\nView Description\n\n\nFall 2024\nSTATS 102C - Introduction to Monte Carlo Methods\nView Description\n\n\nWinter 2025\nSTATS 140XP - Practice of Statistical Consulting\nView Description\n\n\nWinter 2025\nSTATS C155 - Applied Sampling\nView Description"
   }
 ]

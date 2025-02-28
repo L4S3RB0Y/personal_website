@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Eduard"
 about:
   template: trestles
   image: eduardbueno.png
@@ -19,8 +19,6 @@ about:
 comments: false
 toc: false
 ---
-
-# 👋 Hi, I'm Eduard!  
 
 I’m a **senior at UCLA**, majoring in **Statistics and Data Science**. I specialize in **machine learning, NLP, and AI**, with a passion for **solving real-world problems through data**.  
 
