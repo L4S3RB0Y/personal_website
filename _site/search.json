@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 5\n\n[1] 6\n\n\n\nrunif(10)\n\n [1] 0.95860349 0.39665678 0.38954431 0.04149219 0.06012639 0.31560444\n [7] 0.18988888 0.34903715 0.74985562 0.09140085\n\n\"ADDED INFO\"\n\n[1] \"ADDED INFO\""
+    "text": "I’m a senior at UCLA, majoring in Statistics and Data Science. I specialize in machine learning, NLP, and AI, with a passion for solving real-world problems through data.\nCurrently, I am:\n✅ A project competitor with the Algorithmic Justice League, developing a model that predicts skin diseases from images.\n✅ Finishing my studies at UCLA, diving deeper into AI and data science applications.\n✅ Exploring NLP applications, including text similarity, recommendation systems, and information retrieval.\n\n\n\n📍 University of California, Los Angeles (UCLA)\n- B.S. in Statistics & Data Science (Expected 2025)\n- Break Through Tech AI Fellow, Cornell University\n📍 University of California, Los Angeles (UCLA)\n- A.S. in Mathematics 2023\n\n\n\n\n\nMachine Learning: Neural Networks, CNNs, NLP, Clustering, KNN, SVM\n\nStatistical Modeling & Machine Learning Modeling\n\nProgramming: Python, R, SPSS, STATA, SQL, TensorFlow, PyTorch, Quarto\n\nData Science: Recommendation Systems, Classification\n\n\n\n\n\nI love traveling to different places, including my trip to Japan, where I experienced a mix of modern and traditional culture. When I’m not working on data projects, I enjoy gaming with friends and exploring new AI and tech innovations.\n🚀 I thrive in collaborative environments and enjoy working with others to bring ideas to life. Connect with me and let’s build something impactful together!"
   },
   {
     "objectID": "index.html#featured-projects",
@@ -61,5 +61,26 @@
     "title": "Eduard Bueno",
     "section": "🔊 Text-to-Speech Script",
     "text": "🔊 Text-to-Speech Script\n&lt;script&gt;\n  const speech = new SpeechSynthesisUtterance();\n  let isPaused = false;\n\n  document.getElementById('startButton').addEventListener('click', function () {\n    speech.text = document.body.innerText;\n    speech.lang = 'en-US';\n    speech.rate = 1;\n    window.speechSynthesis.speak(speech);\n    document.getElementById('pauseResumeButton').disabled = false;\n    document.getElementById('stopButton').disabled = false;\n    document.getElementById('startButton').disabled = true;\n  });\n\n  document.getElementById('pauseResumeButton').addEventListener('click', function () {\n    if (window.speechSynthesis.speaking && !isPaused) {\n      window.speechSynthesis.pause();\n      this.textContent = '▶️ Resume';\n      isPaused = true;\n    } else if (isPaused) {\n      window.speechSynthesis.resume();\n      this.textContent = '⏸ Pause';\n      isPaused = false;\n    }\n  });\n\n  document.getElementById('stopButton').addEventListener('click', function () {\n    window.speechSynthesis.cancel();\n    isPaused = false;\n    document.getElementById('pauseResumeButton').disabled = true;\n    document.getElementById('stopButton').disabled = true;\n    document.getElementById('startButton').disabled = false;\n    document.getElementById('pauseResumeButton').textContent = '⏸ Pause';\n  });\n\n  speech.addEventListener('end', function () {\n    document.getElementById('pauseResumeButton').disabled = true;\n    document.getElementById('stopButton').disabled = true;\n    document.getElementById('startButton').disabled = false;\n    document.getElementById('pauseResumeButton').textContent = '⏸ Pause';\n  });\n&lt;/script&gt;"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "📍 University of California, Los Angeles (UCLA)\n- B.S. in Statistics & Data Science (Expected 2025)\n- Break Through Tech AI Fellow, Cornell University\n📍 University of California, Los Angeles (UCLA)\n- A.S. in Mathematics 2023"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About",
+    "section": "",
+    "text": "Machine Learning: Neural Networks, CNNs, NLP, Clustering, KNN, SVM\n\nStatistical Modeling & Machine Learning Modeling\n\nProgramming: Python, R, SPSS, STATA, SQL, TensorFlow, PyTorch, Quarto\n\nData Science: Recommendation Systems, Classification"
+  },
+  {
+    "objectID": "about.html#more-about-me",
+    "href": "about.html#more-about-me",
+    "title": "About",
+    "section": "",
+    "text": "I love traveling to different places, including my trip to Japan, where I experienced a mix of modern and traditional culture. When I’m not working on data projects, I enjoy gaming with friends and exploring new AI and tech innovations.\n🚀 I thrive in collaborative environments and enjoy working with others to bring ideas to life. Connect with me and let’s build something impactful together!"
   }
 ]

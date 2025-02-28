@@ -1,3 +1,58 @@
 ---
+title: "About"
+about:
+  template: trestles
+  image: eduardbueno.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/eduard-miguel-bueno/
+    - icon: github
+      text: Github
+      href: https://github.com/L4S3RB0Y
+    - icon: inbox-fill
+      text: Email
+      href: "mailto:em7701bueno@gmail.com"
+    - icon: file-text-fill
+      text: Résumé
+      href: "EduardBueno_Resume.pdf"
+comments: false
+toc: false
+---
+
+# 👋 Hi, I'm Eduard!  
+
+I’m a **senior at UCLA**, majoring in **Statistics and Data Science**. I specialize in **machine learning, NLP, and AI**, with a passion for **solving real-world problems through data**.  
+
+Currently, I am:  
+✅ **A project competitor with the Algorithmic Justice League**, developing a model that predicts **skin diseases from images**.  
+✅ **Finishing my studies at UCLA**, diving deeper into **AI and data science applications**.  
+✅ **Exploring NLP applications**, including **text similarity, recommendation systems, and information retrieval**.  
+
+---
+
+## 🎓 **Education**  
+
+📍 **University of California, Los Angeles (UCLA)**  
+- B.S. in **Statistics & Data Science** (Expected **2025**)  
+- Break Through Tech AI Fellow, Cornell University  
+
+📍 **University of California, Los Angeles (UCLA)**  
+- A.S. in **Mathematics** 2023
+
+---
+
+## 🔬 **Technical Skills**  
+- **Machine Learning**: Neural Networks, CNNs, NLP, Clustering, KNN, SVM  
+- **Statistical Modeling & Machine Learning Modeling**  
+- **Programming**: Python, R, SPSS, STATA, SQL, TensorFlow, PyTorch, Quarto  
+- **Data Science**: Recommendation Systems, Classification  
+
+---
+
+## 🌍 **More About Me**  
+I love **traveling to different places**, including my **trip to Japan**, where I experienced a mix of modern and traditional culture. When I’m not working on data projects, I enjoy **gaming with friends** and exploring new **AI and tech innovations**.  
+
+🚀 **I thrive in collaborative environments** and enjoy working with others to bring ideas to life. Connect with me and let's build something impactful together!  
 
 ---
