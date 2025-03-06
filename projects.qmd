@@ -1,0 +1,14 @@
+---
+title: "Projects"
+format: html
+---
+
+### Superhost Prediction Model
+Developed a machine learning model to predict if an Airbnb listing qualifies as a Superhost.  
+[View on GitHub](https://github.com/L4S3RB0Y/lab5BTT)
+
+---
+
+### NurseMatch Recommendation System
+Built a recommendation algorithm to match travel nurses with hospitals based on various factors.  
+[View on GitHub](https://github.com/Ask-Margot-Nurse-Match/NurseMatch)
