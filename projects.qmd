@@ -14,11 +14,13 @@ Findings:
 - Logistic regression outperformed tree-based models due to dataset size and interpretability.
 - XGBoost struggled with overfitting (67.39% accuracy).
 - Future Work: Expand dataset, add more predictive factors.
+
 [View on GitHub](https://github.com/L4S3RB0Y/NBA_Win_Odds_Model)
 
 ### Superhost Prediction Model
 - Developed a machine learning model to predict if an Airbnb listing qualifies as a Superhost.  
 - Utilized Python and data manipulation libraries like Pandas, NumPy, and etc. to analyze data and produce ML models.
+
 [View on GitHub](https://github.com/L4S3RB0Y/lab5BTT)
 
 ---
@@ -27,6 +29,7 @@ Findings:
 - Designed and implemented a deep learning-based recommendation system to match nurses with hospitals, achieving 84% prediction accuracy for job satisfaction and placements. 
 - Utilized Python and libraries such as TensorFlow, Keras, NumPy, and Pandas to build and optimize the model. 
 - Combined nurse preferences and hospital ratings using a Deep NeuralNetwork to predict user satisfaction probabilities. 
+
 [View on GitHub](https://github.com/Ask-Margot-Nurse-Match/NurseMatch)
 
 ---

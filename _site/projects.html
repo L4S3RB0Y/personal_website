@@ -120,7 +120,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#superhost-prediction-model" id="toc-superhost-prediction-model" class="nav-link active" data-scroll-target="#superhost-prediction-model">Superhost Prediction Model</a></li>
+  <li><a href="#nba-win-odds-model" id="toc-nba-win-odds-model" class="nav-link active" data-scroll-target="#nba-win-odds-model">NBA Win Odds Model</a></li>
+  <li><a href="#superhost-prediction-model" id="toc-superhost-prediction-model" class="nav-link" data-scroll-target="#superhost-prediction-model">Superhost Prediction Model</a></li>
   <li><a href="#nursematch-recommendation-system" id="toc-nursematch-recommendation-system" class="nav-link" data-scroll-target="#nursematch-recommendation-system">NurseMatch Recommendation System</a></li>
   </ul>
 </nav>
@@ -147,16 +148,36 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="nba-win-odds-model" class="level3">
+<h3 class="anchored" data-anchor-id="nba-win-odds-model">NBA Win Odds Model</h3>
+<ul>
+<li>Goal: Predict NBA game outcomes using machine learning models on the 2023-2024 season dataset.</li>
+<li>Dataset: Team stats (points, rebounds, assists, past performance, home-court advantage).</li>
+<li>Models Used: Logistic Regression, Random Forest, XGBoost.</li>
+<li>Best Model: Logistic Regression with PCA (68.55% accuracy).</li>
+</ul>
+<p>Findings: - Feature selection and PCA improved performance. - Logistic regression outperformed tree-based models due to dataset size and interpretability. - XGBoost struggled with overfitting (67.39% accuracy). - Future Work: Expand dataset, add more predictive factors.</p>
+<p><a href="https://github.com/L4S3RB0Y/NBA_Win_Odds_Model">View on GitHub</a></p>
+</section>
 <section id="superhost-prediction-model" class="level3">
 <h3 class="anchored" data-anchor-id="superhost-prediction-model">Superhost Prediction Model</h3>
-<p>Developed a machine learning model to predict if an Airbnb listing qualifies as a Superhost.<br>
-<a href="https://github.com/L4S3RB0Y/lab5BTT">View on GitHub</a></p>
+<ul>
+<li>Developed a machine learning model to predict if an Airbnb listing qualifies as a Superhost.<br>
+</li>
+<li>Utilized Python and data manipulation libraries like Pandas, NumPy, and etc. to analyze data and produce ML models.</li>
+</ul>
+<p><a href="https://github.com/L4S3RB0Y/lab5BTT">View on GitHub</a></p>
 <hr>
 </section>
 <section id="nursematch-recommendation-system" class="level3">
 <h3 class="anchored" data-anchor-id="nursematch-recommendation-system">NurseMatch Recommendation System</h3>
-<p>Built a recommendation algorithm to match travel nurses with hospitals based on various factors.<br>
-<a href="https://github.com/Ask-Margot-Nurse-Match/NurseMatch">View on GitHub</a></p>
+<ul>
+<li>Designed and implemented a deep learning-based recommendation system to match nurses with hospitals, achieving 84% prediction accuracy for job satisfaction and placements.</li>
+<li>Utilized Python and libraries such as TensorFlow, Keras, NumPy, and Pandas to build and optimize the model.</li>
+<li>Combined nurse preferences and hospital ratings using a Deep NeuralNetwork to predict user satisfaction probabilities.</li>
+</ul>
+<p><a href="https://github.com/Ask-Margot-Nurse-Match/NurseMatch">View on GitHub</a></p>
+<hr>
 
 
 </section>
