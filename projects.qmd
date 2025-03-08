@@ -3,12 +3,31 @@ title: "Projects"
 format: html
 ---
 
+### NBA Win Odds Model
+- Goal: Predict NBA game outcomes using machine learning models on the 2023-2024 season dataset.
+- Dataset: Team stats (points, rebounds, assists, past performance, home-court advantage).
+- Models Used: Logistic Regression, Random Forest, XGBoost.
+- Best Model: Logistic Regression with PCA (68.55% accuracy).
+
+Findings:
+- Feature selection and PCA improved performance.
+- Logistic regression outperformed tree-based models due to dataset size and interpretability.
+- XGBoost struggled with overfitting (67.39% accuracy).
+- Future Work: Expand dataset, add more predictive factors.
+[View on GitHub](https://github.com/L4S3RB0Y/NBA_Win_Odds_Model)
+
 ### Superhost Prediction Model
-Developed a machine learning model to predict if an Airbnb listing qualifies as a Superhost.  
+- Developed a machine learning model to predict if an Airbnb listing qualifies as a Superhost.  
+- Utilized Python and data manipulation libraries like Pandas, NumPy, and etc. to analyze data and produce ML models.
 [View on GitHub](https://github.com/L4S3RB0Y/lab5BTT)
 
 ---
 
 ### NurseMatch Recommendation System
-Built a recommendation algorithm to match travel nurses with hospitals based on various factors.  
+- Designed and implemented a deep learning-based recommendation system to match nurses with hospitals, achieving 84% prediction accuracy for job satisfaction and placements. 
+- Utilized Python and libraries such as TensorFlow, Keras, NumPy, and Pandas to build and optimize the model. 
+- Combined nurse preferences and hospital ratings using a Deep NeuralNetwork to predict user satisfaction probabilities. 
 [View on GitHub](https://github.com/Ask-Margot-Nurse-Match/NurseMatch)
+
+---
+
