@@ -14,7 +14,7 @@ about:
       url: "mailto:em7701bueno@gmail.com"
       icon: inbox-fill
     - text: Résumé
-      href: "EduardBueno_Resume.pdf"
+      href: "EduardMLBueno_Resume.pdf"
       icon: file-text-fill
 comments: false
 toc: false
