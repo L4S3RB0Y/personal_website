@@ -12,9 +12,12 @@ toc: false
 | Winter 2024  | STATS 101A - Introduction to Data Analysis and Regression   | [View Description](https://catalog.registrar.ucla.edu/course/2023/STATS101A?siteYear=2023) |
 | Winter 2024  | STATS 102A - Introduction to Computational Statistics with R   | [View Description](https://catalog.registrar.ucla.edu/course/2023/STATS102A?siteYear=2023) |
 | Spring 2024  | STATS 100B - Introduction to Mathematical Statistics   | [View Description](https://catalog.registrar.ucla.edu/course/2023/STATS100B?siteYear=2023) |
-| Spring 2024  | STATS 101B - Introduction to Mathematical Statistics   | [View Description](https://catalog.registrar.ucla.edu/course/2023/STATS101B?siteYear=2023) |
+| Spring 2024  | STATS 101B - Introduction to Design and Analysis of Experiment   | [View Description](https://catalog.registrar.ucla.edu/course/2023/STATS101B?siteYear=2023) |
 | Fall 2024  | STATS 100C - Linear Models   | [View Description](https://catalog.registrar.ucla.edu/course/2023/STATS100C?siteYear=2023) |
 | Fall 2024  | STATS 101C - Introduction to Statistical Models and Data Mining  | [View Description](https://catalog.registrar.ucla.edu/course/2023/STATS101C?siteYear=2023) |
 | Fall 2024  | STATS 102C - Introduction to Monte Carlo Methods   | [View Description](https://catalog.registrar.ucla.edu/course/2023/STATS102C?siteYear=2023) |
 | Winter 2025  | STATS 140XP - Practice of Statistical Consulting   | [View Description](https://catalog.registrar.ucla.edu/course/2023/STATS140XP?siteYear=2023) |
 | Winter 2025  | STATS C155 - Applied Sampling  | [View Description](https://catalog.registrar.ucla.edu/course/2023/STATSC155?siteYear=2023) |
+| Spring 2025  | STATS 102B -  Introduction to Computation and Optimization for Statistics  | [View Description](https://catalog.registrar.ucla.edu/course/2022/stats102b?siteYear=2022) |
+| Spring 2025  | STATS 167 - Introduction to Databases  | [View Description](https://registrar.ucla.edu/academics/course-descriptions?search=STATS) |
+| Spring 2025  | STATS 141XP - Practice of Statistical Consulting  | [View Description](https://catalog.registrar.ucla.edu/course/2024/STATS141XP) |
